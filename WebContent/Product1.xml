@@ -1,0 +1,9 @@
+<w:item xmlns:w="http://www.cs.au.dk/dWebTek/2014">
+	<w:itemID>9001</w:itemID>
+	<w:itemName>"Gems"</w:itemName>
+	<w:itemURL>www.google.com</w:itemURL>
+	<w:itemPrice>9001</w:itemPrice>
+	<w:itemStock>20</w:itemStock>
+	<w:itemDescription><w:document>askjdjasfjlsdahf asfihjasjhdojasdkads</w:document></w:itemDescription>
+</w:item>
+
